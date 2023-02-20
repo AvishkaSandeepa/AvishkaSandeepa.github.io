@@ -35,3 +35,17 @@
 		opacity: 1;
 		margin: 4rem 0 0 0;
 	}
+
+	.bordered-span {
+		display: inline-block;
+		border: 1px solid #ffffff; /* Border color */
+		background-color: #000000; /* Button color */
+		opacity: 0.6;
+		border-radius: 4px; /* Rounded corners */
+		padding: 8px; /* Padding */
+		color: #ffffff;
+		font-size: 16px;
+		margin: 4px; /* Margin between text fields */
+		text-transform: uppercase;
+		letter-spacing: 2px;
+		}
